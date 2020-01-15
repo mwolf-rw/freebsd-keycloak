@@ -67,14 +67,14 @@ post-patch:
 .for f in ${CONFIG_FILES}
 	${MV} ${WRKSRC}/${f} ${WRKSRC}/${f}.sample
 .endfor
-	${RM} ${WRKSRC}/modules/system/layers/base/org/apache/activemq/artemis/journal/main/lib/linux-i686/libartemis-native-32.so
-	${RM} ${WRKSRC}/modules/system/layers/base/org/apache/activemq/artemis/journal/main/lib/linux-x86_64/libartemis-native-64.so
-	${RM} ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/linux-i386/libwfssl.so
-	${RM} ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/linux-x86_64/libwfssl.so
-	${RM} ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/macosx-x86_64/libwfssl.dylib
-	${RM} ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/solaris-x86_64/libwfssl.so
-	${RM} ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/win-i686/wfssl.dll
-	${RM} ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/win-x86_64/wfssl.dll
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/apache/activemq/artemis/journal/main/lib/linux-i686
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/apache/activemq/artemis/journal/main/lib/linux-x86_64
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/linux-i386
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/linux-x86_64
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/macosx-x86_64
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/solaris-x86_64
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/win-i686
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/win-x86_64
 
 do-install:
 	${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/bin
