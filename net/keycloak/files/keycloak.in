@@ -1,0 +1,73 @@
+#!/bin/sh
+
+# $FreeBSD$
+#
+# PROVIDE: %%PORTNAME%%
+# REQUIRE: NETWORKING SERVERS
+# KEYWORD: shutdown
+#
+# Add these following line to /etc/rc.conf.local or /etc/rc.conf
+# to enable this service:
+#
+# %%PORTNAME%%_enable (bool):       Set it to YES to enable keycloak on startup.
+#                               Default: NO
+# %%PORTNAME%%_domain (bool):       Set it to YES to start keycloak in domain mode.
+#                               Default: NO
+# %%PORTNAME%%_user (string):       User account to run with.
+#                               Default: www
+# %%PORTNAME%%_flags (string):      Additional flags for the startup script.
+#
+
+. /etc/rc.subr
+
+name=%%PORTNAME%%
+rcvar=%%PORTNAME%%_enable
+desc="Identity and access management solution"
+
+load_rc_config $name
+
+: ${%%PORTNAME%%_enable:=NO}
+: ${%%PORTNAME%%_domain:=NO}
+: ${%%PORTNAME%%_user:=%%USER%%}
+: ${%%PORTNAME%%_group:=%%GROUP%%}
+: ${%%PORTNAME%%_flags:=""}
+: ${%%PORTNAME%%_sleep:=5}
+
+pidfile=%%RUN_DIR%%/%%PORTNAME%%.pid
+procname=%%JAVA%%
+command=/usr/sbin/daemon
+command_args="-u ${%%PORTNAME%%_user} -o %%LOG_DIR%%/%%PORTNAME%%.out -t %%PORTNAME%%"
+
+start_cmd="%%PORTNAME%%_start"
+
+%%PORTNAME%%_start()
+{
+        local %%PORTNAME%%_startscript
+
+        if ! checkyesno %%PORTNAME%%_domain; then
+                %%PORTNAME%%_startscript=standalone.sh
+        else
+                %%PORTNAME%%_startscript=domain.sh
+        fi
+
+	if [ ! -d "%%LOG_DIR%%" ]; then
+		install -d -o ${%%PORTNAME%%_user} %%LOG_DIR%%
+	fi
+	if [ ! -d "%%RUN_DIR%%" ]; then
+		install -d -o ${%%PORTNAME%%_user} %%RUN_DIR%%
+	fi
+
+	chown -R ${%%PORTNAME%%_user} %%LOG_DIR%%
+	chown -R ${%%PORTNAME%%_user} %%JAVASHAREDIR%%/%%PORTNAME%%/domain
+	chown -R ${%%PORTNAME%%_user} %%JAVASHAREDIR%%/%%PORTNAME%%/standalone
+
+	echo "Starting %%PORTNAME%%."
+        ${command} ${command_args} \
+                %%JAVASHAREDIR%%/%%PORTNAME%%/bin/${%%PORTNAME%%_startscript} \
+                ${%%PORTNAME%%_flags}
+        sleep ${%%PORTNAME%%_sleep}
+        pgrep -U ${%%PORTNAME%%_user} -f %%JAVASHAREDIR%%/%%PORTNAME%%/jboss-modules.jar > ${pidfile}
+        chown ${%%PORTNAME%%_user} ${pidfile}
+}
+
+run_rc_command "$1"
