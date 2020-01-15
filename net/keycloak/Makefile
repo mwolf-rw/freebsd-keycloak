@@ -69,12 +69,7 @@ post-patch:
 .endfor
 	${RM} -r ${WRKSRC}/modules/system/layers/base/org/apache/activemq/artemis/journal/main/lib/linux-i686
 	${RM} -r ${WRKSRC}/modules/system/layers/base/org/apache/activemq/artemis/journal/main/lib/linux-x86_64
-	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/linux-i386
-	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/linux-x86_64
-	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/macosx-x86_64
-	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/solaris-x86_64
-	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/win-i686
-	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib/win-x86_64
+	${RM} -r ${WRKSRC}/modules/system/layers/base/org/wildfly/openssl/main/lib
 
 do-install:
 	${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/bin
