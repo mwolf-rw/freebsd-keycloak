@@ -3,13 +3,27 @@ bin/kcreg
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Ace Code Editor,BSD 3-clause New or Revised License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Angular Treeview,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/AngularJS,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Axios,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/ChangeCase,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Emotion,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/ExecutionEnvironment,BSD 3-clause New or Revised License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/FileSaver.js,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Font Awesome (Font),SIL Open Font License 1.1.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Glyphicons Halflings,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Moment.js,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/OpenSans,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Patternfly 4 React Core,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Patternfly 4 React Icons,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Patternfly 4 React Styles,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Patternfly 4 React Tokens,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Patternfly 4,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Patternfly,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/React,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Select2,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Select2,GNU General Public License v2.0 only.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/SystemJS,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Tippy.js React,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Tippy.js,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/UI.Ace,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/Zocial,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/angular-file-upload,MIT License.txt
@@ -18,13 +32,14 @@ bin/kcreg
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/aopalliance,aopalliance,1.0,Public Domain.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.fasterxml.jackson.dataformat,jackson-dataformat-cbor,2.9.10,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.google.inject.extensions,guice-servlet,4.0,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.google.zxing,core,3.2.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.google.zxing,javase,3.2.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.googlecode.owasp-java-html-sanitizer,owasp-java-html-sanitizer,20180219.1,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.google.zxing,core,3.4.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.google.zxing,javase,3.4.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.googlecode.owasp-java-html-sanitizer,owasp-java-html-sanitizer,20191001.1,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.openshift,openshift-restclient-java,6.1.3.Final,Eclipse Public License 1.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.thoughtworks.xstream,xstream,1.4.10,BSD 3-clause New or Revised License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.webauthn4j,webauthnj4-core,0.9.14.RELEASE,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/com.webauthn4j,webauthnj4-util,0.9.14.RELEASE,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/focus-trap,MIT License.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/focus-trap-react,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/jQuery,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/licenses.css
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/licenses.html
@@ -64,35 +79,34 @@ bin/kcreg
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.eclipse.jdt.core.compiler,ecj,4.4.2,Eclipse Public License 1.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.eclipse.sisu,org.eclipse.sisu.inject,0.3.2,Eclipse Public License 1.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.eclipse.sisu,org.eclipse.sisu.plexus,0.3.2,Eclipse Public License 1.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.freemarker,freemarker,2.3.26-incubating,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-authz-policy-common,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-authz-policy-drools,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-client-cli-dist,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-common,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-core,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-js-adapter,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-kerberos-federation,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-ldap-federation,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-infinispan,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-jpa,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core-public,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi-private,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-services,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-sssd-federation,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-themes,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-adduser,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-extensions,8.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-server-subsystem,8.0.1,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.freemarker,freemarker,2.3.29,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-authz-policy-common,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-client-cli-dist,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-common,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-core,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-js-adapter,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-kerberos-federation,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-ldap-federation,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-infinispan,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-jpa,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core-public,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi-private,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-services,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-sssd-federation,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-themes,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-adduser,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-extensions,9.0.0,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-server-subsystem,9.0.0,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.kie,kie-api,7.11.0.Final,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.kie,kie-ci,7.11.0.Final,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.kie,kie-internal,7.11.0.Final,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.liquibase,liquibase-core,3.5.5,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.mvel,mvel2,2.4.0.Final,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.sonatype.plexus,plexus-cipher,1.7,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.sonatype.plexus,plexus-sec-dispatcher,1.3,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.twitter4j,twitter4j-core,4.0.4,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.twitter4j,twitter4j-core,4.0.7,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/prop-types,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/rfc4648.js,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/ui-select2,MIT License.txt
 %%PORTDOCS%%%%DOCSDIR%%/schema/README.md
@@ -426,8 +440,8 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/bin/client/README-EJB-JMS.txt
 %%JAVASHAREDIR%%/keycloak/bin/client/jboss-cli-client.jar
 %%JAVASHAREDIR%%/keycloak/bin/client/jboss-client.jar
-%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-admin-cli-8.0.1.jar
-%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-client-registration-cli-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-admin-cli-9.0.0.jar
+%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-client-registration-cli-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/bin/common.sh
 %%JAVASHAREDIR%%/keycloak/bin/domain.sh
 %%JAVASHAREDIR%%/keycloak/bin/elytron-tool.sh
@@ -1485,137 +1499,74 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/sun/jdk/main/service-loader-resources/META-INF/services/java.sql.Driver
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/sun/scripting/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/sun/scripting/main/service-loader-resources/META-INF/services/javax.script.ScriptEngineFactory
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/aopalliance/main/aopalliance-1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/aopalliance/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/main/jackson-dataformat-cbor-2.9.10.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/github/ua-parser/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/github/ua-parser/main/uap-java-1.4.3.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/core/main/core-3.2.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/core/main/core-3.4.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/core/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/javase/main/javase-3.2.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/javase/main/javase-3.4.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/javase/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/googlecode/owasp-java-html-sanitizer/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/googlecode/owasp-java-html-sanitizer/main/owasp-java-html-sanitizer-20180219.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/googlecode/owasp-java-html-sanitizer/main/owasp-java-html-sanitizer-20191001.1.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/openshift/openshift-restclient-java/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/openshift/openshift-restclient-java/main/openshift-restclient-java-6.1.3.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/thoughtworks/xstream/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/thoughtworks/xstream/main/xstream-1.4.10.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/webauthn4j/webauthn4j-core/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/webauthn4j/webauthn4j-core/main/webauthn4j-core-0.9.14.RELEASE.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/webauthn4j/webauthn4j-util/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/webauthn4j/webauthn4j-util/main/webauthn4j-util-0.9.14.RELEASE.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/antlr/3.5/antlr-runtime-3.5.2.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/antlr/3.5/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/ant/main/ant-1.8.4.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/ant/main/ant-launcher-1.8.4.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/ant/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/commons/lang/main/commons-lang-2.6.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/commons/lang/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/commons/lang3/main/commons-lang3-3.9.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/commons/lang3/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/kerby/kerby-asn1/main/kerby-asn1-2.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/kerby/kerby-asn1/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-aether-provider-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-artifact-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-builder-support-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-compat-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-core-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-model-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-model-builder-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-plugin-api-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-repository-metadata-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-settings-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/maven-settings-builder-3.3.9.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/wagon/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/wagon/main/wagon-http-3.0.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/wagon/main/wagon-http-shared-3.0.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/apache/maven/wagon/main/wagon-provider-api-3.0.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/codehouse/plexus/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/codehouse/plexus/main/plexus-classworlds-2.5.2.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/codehouse/plexus/main/plexus-component-annotations-1.6.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/codehouse/plexus/main/plexus-interpolation-1.21.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/codehouse/plexus/main/plexus-utils-3.0.22.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/drools/main/drools-compiler-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/drools/main/drools-core-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/drools/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-api-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-connector-basic-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-impl-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-spi-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-transport-file-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-transport-http-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-transport-wagon-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/aether-util-1.1.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/aether/kie/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/sisu/main/guice-servlet-4.0.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/sisu/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/sisu/main/org.eclipse.sisu.inject-0.3.2.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/eclipse/sisu/main/org.eclipse.sisu.plexus-0.3.2.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/freemarker/main/freemarker-2.3.26-incubating.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/freemarker/main/freemarker-2.3.29.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/freemarker/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/jboss/as/product/keycloak/dir/META-INF/MANIFEST.MF
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/jboss/as/product/keycloak/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-common/main/keycloak-authz-policy-common-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-common/main/keycloak-authz-policy-common-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-drools/main/keycloak-authz-policy-drools-8.0.1.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-drools/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/keycloak-common-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/keycloak-common-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-core/main/keycloak-core-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-core/main/keycloak-core-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-core/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-js-adapter/main/keycloak-js-adapter-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-js-adapter/main/keycloak-js-adapter-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-js-adapter/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-kerberos-federation/main/keycloak-kerberos-federation-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-kerberos-federation/main/keycloak-kerberos-federation-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-kerberos-federation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-ldap-federation/main/keycloak-ldap-federation-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-ldap-federation/main/keycloak-ldap-federation-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-ldap-federation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-infinispan/main/keycloak-model-infinispan-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-infinispan/main/keycloak-model-infinispan-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-jpa/main/keycloak-model-jpa-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-jpa/main/keycloak-model-jpa-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-jpa/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core-public/main/keycloak-saml-core-public-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core-public/main/keycloak-saml-core-public-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core-public/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core/main/keycloak-saml-core-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core/main/keycloak-saml-core-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi-private/main/keycloak-server-spi-private-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi-private/main/keycloak-server-spi-private-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi-private/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi/main/keycloak-server-spi-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi/main/keycloak-server-spi-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/dependencies/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/main/server-war/WEB-INF/jboss-deployment-structure.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/main/server-war/WEB-INF/web.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-services/main/keycloak-services-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-services/main/keycloak-services-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-services/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-sssd-federation/main/keycloak-sssd-federation-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-sssd-federation/main/keycloak-sssd-federation-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-sssd-federation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-adduser/main/keycloak-wildfly-adduser-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-adduser/main/keycloak-wildfly-adduser-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-adduser/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-extensions/main/keycloak-wildfly-extensions-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-extensions/main/keycloak-wildfly-extensions-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-extensions/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/keycloak-wildfly-server-subsystem-8.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/keycloak-wildfly-server-subsystem-9.0.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-api-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-ci-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-internal-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-soup-commons-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-soup-maven-integration-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-soup-maven-support-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/kie-soup-project-datamodel-commons-7.11.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/kie/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/liquibase/main/liquibase-core-3.5.5.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/liquibase/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/mvel/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/mvel/main/mvel2-2.4.0.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/sonatype/plexus/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/sonatype/plexus/main/plexus-cipher-1.7.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/sonatype/plexus/main/plexus-sec-dispatcher-1.3.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/sonatype/sisu/main/guice-4.0-no_aop.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/sonatype/sisu/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/twitter4j/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/twitter4j/main/twitter4j-core-4.0.4.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/twitter4j/main/twitter4j-core-4.0.7.jar
 %%JAVASHAREDIR%%/keycloak/standalone/deployments/README.txt
 %%JAVASHAREDIR%%/keycloak/standalone/log
 %%JAVASHAREDIR%%/keycloak/themes/README.txt
@@ -1701,7 +1652,6 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/permission/resource-server-permission-list.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/policy/provider/resource-server-policy-aggregate-detail.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/policy/provider/resource-server-policy-client-detail.html
-%%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/policy/provider/resource-server-policy-drools-detail.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/policy/provider/resource-server-policy-group-detail.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/policy/provider/resource-server-policy-js-detail.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/authz/policy/provider/resource-server-policy-role-detail.html
@@ -1871,6 +1821,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/user-storage-ldap-mappers.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/user-storage-ldap.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/user-storage.html
+%%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/webauthn-policy-passwordless.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/partials/webauthn-policy.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/templates/authz/kc-authz-modal.html
 %%JAVASHAREDIR%%/keycloak/themes/base/admin/resources/templates/authz/kc-tabs-resource-server.html
@@ -1976,98 +1927,370 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/base/login/register.ftl
 %%JAVASHAREDIR%%/keycloak/themes/base/login/resources/js/base64url.js
 %%JAVASHAREDIR%%/keycloak/themes/base/login/saml-post-form.ftl
-%%JAVASHAREDIR%%/keycloak/themes/base/login/select.ftl
+%%JAVASHAREDIR%%/keycloak/themes/base/login/select-authenticator.ftl
 %%JAVASHAREDIR%%/keycloak/themes/base/login/template.ftl
 %%JAVASHAREDIR%%/keycloak/themes/base/login/terms.ftl
 %%JAVASHAREDIR%%/keycloak/themes/base/login/theme.properties
 %%JAVASHAREDIR%%/keycloak/themes/base/login/webauthn-authenticate.ftl
+%%JAVASHAREDIR%%/keycloak/themes/base/login/webauthn-error.ftl
 %%JAVASHAREDIR%%/keycloak/themes/base/login/webauthn-register.ftl
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/index.ftl
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/messages/messages_en.properties
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/.eslintrc.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/Main.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/Main.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/Main.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/README.md
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/WelcomePageScripts.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/App.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/App.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/App.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/ContentPages.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/ContentPages.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/ContentPages.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/PageNav.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/PageNav.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/PageNav.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/PageToolbar.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/PageToolbar.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/PageToolbar.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/account-service/account.service.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/account-service/account.service.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/account-service/account.service.ts
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/app.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/app.component.html
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/assets/img/QRCode.png
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/assets/img/favicon.ico
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/assets/img/keycloak-logo-min.png
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/assets/img/keycloak-logo.png
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/ContentAlert.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/ContentAlert.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/ContentAlert.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/ContentPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/ContentPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/ContentPage.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/account-page/AccountPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/account-page/AccountPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/account-page/AccountPage.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/account-page/account-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/account-page/account-page.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/aia-page/AppInitiatedActionPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/aia-page/AppInitiatedActionPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/aia-page/AppInitiatedActionPage.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/ApplicationsPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/ApplicationsPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/ApplicationsPage.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/applications-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/applications-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/large-app-card.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/large-app-card.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/row-app-card.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/row-app-card.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/small-app-card.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/applications-page/small-app-card.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/AuthenticatorPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/AuthenticatorPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/AuthenticatorPage.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/authenticator-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/authenticator-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/backup-code-setup-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/backup-code-setup-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/mobile-authenticator-setup-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/mobile-authenticator-setup-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/sms-code-setup-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/authenticator-page/sms-code-setup-page.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/device-activity-page/DeviceActivityPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/device-activity-page/DeviceActivityPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/device-activity-page/DeviceActivityPage.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/device-activity-page/device-activity-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/device-activity-page/device-activity-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/home-page/home-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/home-page/home-page.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/linked-accounts-page/LinkedAccountsPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/linked-accounts-page/LinkedAccountsPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/linked-accounts-page/LinkedAccountsPage.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/linked-accounts-page/linked-accounts-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/linked-accounts-page/linked-accounts-page.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/MyResourcesPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/MyResourcesPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/MyResourcesPage.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/ResourcesTable.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/ResourcesTable.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/ResourcesTable.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/ShareTheResource.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/ShareTheResource.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/my-resources-page/ShareTheResource.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/page-not-found/PageNotFound.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/page-not-found/PageNotFound.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/page-not-found/PageNotFound.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/page-not-found/page-not-found.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/page-not-found/page-not-found.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/password-page/PasswordPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/password-page/PasswordPage.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/password-page/PasswordPage.tsx
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/password-page/password-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/password-page/password-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/large-session-card.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/large-session-card.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/row-session-card.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/row-session-card.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/sessions-page.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/sessions-page.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/small-session-card.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/sessions-page/small-session-card.component.html
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/widgets/toolbar.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/widgets/toolbar.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/signingin-page/SigningInPage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/signingin-page/SigningInPage.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/content/signingin-page/SigningInPage.tsx
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/keycloak-service/keycloak.d.ts
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/keycloak-service/keycloak.service.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/keycloak-service/keycloak.service.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/keycloak-service/keycloak.service.ts
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/util/AIACommand.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/util/AIACommand.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/util/AIACommand.ts
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/util/RedirectUri.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/util/RedirectUri.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/util/RedirectUri.ts
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/vertical-nav/vertical-nav.component.css
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/vertical-nav/vertical-nav.component.html
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ContinueCancelModal.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ContinueCancelModal.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ContinueCancelModal.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/LocaleSelectors.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/LocaleSelectors.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/LocaleSelectors.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/Logout.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/Logout.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/Logout.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/Msg.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/Msg.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/Msg.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ReferrerDropdownItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ReferrerDropdownItem.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ReferrerDropdownItem.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ReferrerLink.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ReferrerLink.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/ReferrerLink.tsx
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/features.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/features.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/app/widgets/features.ts
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/content.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/environments/environment.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/environments/environment.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/environments/environment.prod.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/environments/environment.prod.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/environments/environment.prod.ts
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/environments/environment.ts
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/eslint.cmd
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/package-lock.json
-%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/package.json
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-bold.ttf
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-bold.woff
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-bold.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-light-italic.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-light.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-regular.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-semibold.ttf
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-semibold.woff
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/overpass-webfont/overpass-semibold.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/webfonts/fa-solid-900.ttf
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/webfonts/fa-solid-900.woff
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/fonts/webfonts/fa-solid-900.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/images/img_avatar.svg
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/assets/pficon/pficon.woff2
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/patternfly/patternfly.min.css
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Alert/alert.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/AppLauncher/app-launcher.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Avatar/avatar.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Backdrop/backdrop.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/BackgroundImage/background-image.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Badge/badge.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Button/button.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Card/card.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Chip/chip.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/ChipGroup/chip-group.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Content/content.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/DataList/data-list.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Dropdown/dropdown.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/EmptyState/empty-state.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Form/form.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/FormControl/form-control.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/ModalBox/modal-box.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Nav/nav.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Page/page.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Switch/switch.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Tabs/tabs.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Title/title.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/components/Tooltip/tooltip.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/layouts/Bullseye/bullseye.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/layouts/Gallery/gallery.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/layouts/Grid/grid.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/layouts/Level/level.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/layouts/Stack/stack.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/@patternfly/patternfly/utilities/Accessibility/accessibility.css.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Alert/Alert.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Alert/AlertActionCloseButton.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Alert/AlertActionLink.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Alert/AlertIcon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Alert/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Avatar/Avatar.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Avatar/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Backdrop/Backdrop.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Backdrop/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/BackgroundImage/BackgroundImage.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/BackgroundImage/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Badge/Badge.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Badge/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Brand/Brand.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Brand/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Button/Button.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Button/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Card/Card.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Card/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/ChipGroup/Chip.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/ChipGroup/ChipButton.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/ChipGroup/ChipGroup.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/ChipGroup/ChipGroupToolbarItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/ChipGroup/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataList.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListAction.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListCell.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListCheck.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListContent.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListItemCells.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListItemRow.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/DataListToggle.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/DataList/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/Dropdown.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/DropdownGroup.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/DropdownItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/DropdownMenu.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/DropdownToggle.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/DropdownToggleCheckbox.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/Item.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/KebabToggle.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/Separator.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/Toggle.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/dropdownConstants.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Dropdown/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/EmptyState/EmptyState.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/EmptyState/EmptyStateBody.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/EmptyState/EmptyStateIcon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/EmptyState/EmptyStateSecondaryActions.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/EmptyState/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Form/ActionGroup.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Form/Form.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Form/FormContext.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Form/FormGroup.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Form/FormHelperText.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Form/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/Modal.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/ModalBox.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/ModalBoxBody.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/ModalBoxCloseButton.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/ModalBoxFooter.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/ModalBoxHeader.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/ModalContent.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Modal/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/Nav.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/NavExpandable.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/NavGroup.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/NavItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/NavItemSeparator.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/NavList.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/NavVariants.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Nav/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Page/Page.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Page/PageHeader.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Page/PageSection.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Page/PageSidebar.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Page/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Switch/Switch.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Switch/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tabs/Tab.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tabs/TabContent.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tabs/Tabs.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tabs/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Text/Text.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Text/TextContent.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Text/TextList.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Text/TextListItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Text/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/TextInput/TextInput.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/TextInput/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Title/Title.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Title/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tooltip/Tooltip.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tooltip/TooltipArrow.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tooltip/TooltipContent.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tooltip/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/Tooltip/styles.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/components/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/GenerateId/GenerateId.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/componentShape.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/constants.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/htmlConstants.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/typeUtils.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/helpers/util.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Bullseye/Bullseye.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Bullseye/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Gallery/Gallery.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Gallery/GalleryItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Gallery/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Grid/Grid.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Grid/GridItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Grid/gridUtils.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Grid/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Level/Level.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Level/LevelItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Level/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Stack/Stack.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Stack/StackItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Stack/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Toolbar/Toolbar.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Toolbar/ToolbarGroup.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Toolbar/ToolbarItem.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Toolbar/ToolbarSection.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/Toolbar/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/layouts/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/styles/gutters.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-core/dist/umd/styles/sizes.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/common.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/createIcon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/amazon-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/angle-down-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/angle-left-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/angle-right-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/arrow-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/bars-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/bitbucket-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/builder-image-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/caret-down-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/check-circle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/check-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/chrome-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/cube-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/edge-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/edit-alt-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/ellipsis-v-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/exclamation-circle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/exclamation-triangle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/facebook-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/firefox-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/github-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/gitlab-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/globe-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/google-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/info-alt-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/info-circle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/instagram-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/internet-explorer-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/link-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/linkedin-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/microsoft-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/openshift-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/opera-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/passport-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/paypal-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/plus-circle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/redo-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/remove2-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/safari-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/share-alt-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/stack-overflow-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/times-circle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/times-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/twitter-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/unlink-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/user-check-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/warning-triangle-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/icons/yandex-international-icon.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-icons/dist/umd/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-styles/dist/umd/StyleSheet.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-styles/dist/umd/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-styles/dist/umd/utils.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@patternfly/react-tokens/dist/umd/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/@tippy.js/react/dist/Tippy.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/axios/dist/axios.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/camel-case/camel-case.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/emotion/dist/emotion.umd.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/exenv/index.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/focus-trap-react/dist/focus-trap-react.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/focus-trap/dist/focus-trap.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/lower-case/lower-case.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/moment/min/moment-with-locales.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/no-case/no-case.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/no-case/vendor/camel-case-regexp.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/no-case/vendor/camel-case-upper-regexp.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/no-case/vendor/non-word-regexp.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/prop-types/prop-types.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/react-dom/umd/react-dom.production.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/react-router-dom/umd/react-router-dom.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/react/umd/react.production.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/systemjs/dist/system.src.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/tippy.js/dist/tippy.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/node_modules/upper-case/upper-case.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/public/favicon.ico
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/public/layout.css
+%%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/public/logo.svg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/systemjs.config.extras.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/systemjs.config.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak-preview/account/resources/tsconfig.json
@@ -2086,7 +2309,6 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/admin/theme.properties
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/lib/angular/errors.json
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/lib/angular/treeview/LICENSE
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/lib/angular/treeview/README.md
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/lib/angular/treeview/angular.treeview.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/lib/angular/treeview/angular.treeview.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/lib/angular/treeview/css/angular.treeview.css
@@ -2122,6 +2344,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-cookies/angular-cookies.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-cookies/angular-cookies.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-cookies/angular-cookies.min.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-cookies/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-loader/LICENSE.md
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-loader/angular-loader.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-loader/angular-loader.min.js
@@ -2130,14 +2353,17 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-resource/angular-resource.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-resource/angular-resource.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-resource/angular-resource.min.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-resource/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-route/LICENSE.md
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-route/angular-route.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-route/angular-route.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-route/angular-route.min.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-route/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-sanitize/LICENSE.md
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-sanitize/angular-sanitize.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-sanitize/angular-sanitize.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-sanitize/angular-sanitize.min.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-sanitize/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-translate-loader-url/angular-translate-loader-url.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-translate-loader-url/angular-translate-loader-url.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-translate/LICENSE
@@ -2159,6 +2385,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-translate/dist/angular-translate.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-treeview/LICENSE
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-treeview/images/plus.png
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-treeview/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-treeview/tree.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-ui-select2/LICENSE
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular-ui-select2/src/select2.js
@@ -2168,6 +2395,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular/angular.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular/angular.min.js.gzip
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular/angular.min.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/angular/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/autofill-event/autofill-event.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/bootstrap/LICENSE
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/bootstrap/dist/css/bootstrap-theme.css
@@ -2236,6 +2464,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/ng-file-upload/dist/ng-file-upload-shim.min.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/ng-file-upload/dist/ng-file-upload.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/ng-file-upload/dist/ng-file-upload.min.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/ng-file-upload/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/patternfly/LICENSE.txt
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/patternfly/dist/css/patternfly-additions.css
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/patternfly/dist/css/patternfly-additions.css.map
@@ -2508,7 +2737,6 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/facebook-logo.svg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/favicon.ico
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/fedora-logo.png
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/git-Logo.svg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/git-logo.svg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/github-logo.svg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/rcue/dist/img/gmail.svg
@@ -2608,6 +2836,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/text-security/dist/text-security-square.ttf
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/text-security/dist/text-security-square.woff
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/text-security/dist/text-security.css
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/text-security/index.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/node_modules/text-security/style-template.css
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/email/theme.properties
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/login/resources/css/login.css
