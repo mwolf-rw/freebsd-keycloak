@@ -1,0 +1,10 @@
+bin/keycloak-gatekeeper
+@owner www
+@group www
+@mode 600
+@sample %%ETCDIR%%.yaml.sample
+@mode
+@dir /var/log/keycloak
+@dir /var/run/keycloak
+@owner
+@group
