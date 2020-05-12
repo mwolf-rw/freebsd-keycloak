@@ -1,3 +1,4 @@
+make_test.sh
 net/keycloak/work
 net/keycloak-gatekeeper/work
 *.swp
