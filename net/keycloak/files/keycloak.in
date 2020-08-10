@@ -34,14 +34,13 @@ load_rc_config $name
 : ${%%PORTNAME%%_user:=%%USER%%}
 : ${%%PORTNAME%%_group:=%%GROUP%%}
 : ${%%PORTNAME%%_flags:=""}
-: ${%%PORTNAME%%_sleep:=5}
 
 pidfile=%%RUN_DIR%%/%%PORTNAME%%.pid
-procname=%%JAVA%%
 command=/usr/sbin/daemon
-command_args="-u ${%%PORTNAME%%_user} -o %%LOG_DIR%%/%%PORTNAME%%.out -t %%PORTNAME%% -R 60"
+command_args="-u ${%%PORTNAME%%_user} -o %%LOG_DIR%%/%%PORTNAME%%.out -t %%PORTNAME%% -R 60 -P ${pidfile}"
 
 start_cmd="%%PORTNAME%%_start"
+stop_cmd="%%PORTNAME%%_stop"
 
 %%PORTNAME%%_start()
 {
@@ -72,9 +71,20 @@ start_cmd="%%PORTNAME%%_start"
         ${command} ${command_args} \
                 %%JAVASHAREDIR%%/%%PORTNAME%%/bin/${%%PORTNAME%%_startscript} \
                 ${%%PORTNAME%%_flags}
-        sleep ${%%PORTNAME%%_sleep}
-        pgrep -U ${%%PORTNAME%%_user} -f %%JAVASHAREDIR%%/%%PORTNAME%%/jboss-modules.jar > ${pidfile}
-        chown ${%%PORTNAME%%_user} ${pidfile}
+}
+
+%%PORTNAME%%_stop() {
+    local pid_daemon
+    local pid_child
+
+    echo "Stopping %%PORTNAME%%."
+    pid_daemon=$(check_pidfile ${pidfile} ${command})
+    kill -TERM ${pid_daemon}
+
+    pid_child=$(pgrep -U ${%%PORTNAME%%_user} -f %%JAVASHAREDIR%%/%%PORTNAME%%/jboss-modules.jar)
+    kill -TERM ${pid_child}
+
+    wait_for_pids ${pid_daemon} ${pid_child}
 }
 
 run_rc_command "$1"

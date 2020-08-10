@@ -1549,6 +1549,8 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/google/zxing/javase/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/googlecode/owasp-java-html-sanitizer/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/googlecode/owasp-java-html-sanitizer/main/owasp-java-html-sanitizer-20191001.1.jar
+%%MYSQL%%%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/mysql/main/module.xml
+%%MYSQL%%%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/mysql/main/mysql-connector-java.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/openshift/openshift-restclient-java/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/openshift/openshift-restclient-java/main/openshift-restclient-java-8.0.0.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/com/webauthn4j/webauthn4j-core/main/module.xml
@@ -1607,6 +1609,8 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/liquibase/main/liquibase-core-3.5.5.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/liquibase/main/module.xml
+%%POSTGRES%%%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/postgresql/main/module.xml
+%%POSTGRES%%%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/postgresql/main/postgresql.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/twitter4j/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/twitter4j/main/twitter4j-core-4.0.7.jar
 %%JAVASHAREDIR%%/keycloak/standalone/deployments/README.txt

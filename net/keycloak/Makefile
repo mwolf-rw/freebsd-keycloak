@@ -11,6 +11,25 @@ COMMENT=	Identity and access management solution
 LICENSE=	APACHE20
 LICENSE_FILE=	${WRKSRC}/LICENSE.txt
 
+FLAVORS=	default mysql postgres
+FLAVOR?=	${FLAVORS:[1]}
+mysql_PKGNAMESUFFIX=	-mysql
+postgres_PKGNAMESUFFIX=	-postgres
+
+.if ${FLAVOR:U} == mysql
+RUN_DEPENDS+=	${JAVAJARDIR}/mysql-connector-java.jar:databases/mysql-connector-java
+PLIST_SUB+=	MYSQL=""
+.else
+PLIST_SUB+=	MYSQL="@comment "
+.endif
+
+.if ${FLAVOR:U} == postgres
+RUN_DEPENDS+=	${JAVAJARDIR}/postgresql.jar:databases/postgresql-jdbc
+PLIST_SUB+=	POSTGRES=""
+.else
+PLIST_SUB+=	POSTGRES="@comment "
+.endif
+
 USE_RC_SUBR=	keycloak
 
 USE_JAVA=	yes
@@ -103,5 +122,17 @@ do-install:
 	# Create links for log directories
 	${LN} -sf ${LOG_DIR}/domain ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/domain/log
 	${LN} -sf ${LOG_DIR}/standalone ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/standalone/log
+
+.if ${FLAVOR:U} == mysql
+	@${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/com/mysql/main
+	${CP} ${FILESDIR}/mysql-module.xml ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/com/mysql/main/module.xml
+	${LN} -sf ${JAVAJARDIR}/mysql-connector-java.jar ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/com/mysql/main/mysql-connector-java.jar
+.endif
+
+.if ${FLAVOR:U} == postgres
+	@${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/org/postgresql/main
+	${CP} ${FILESDIR}/postgresql-module.xml ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/org/postgresql/main/module.xml
+	${LN} -sf ${JAVAJARDIR}/postgresql.jar ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/org/postgresql/main/postgresql.jar
+.endif
 
 .include <bsd.port.mk>
