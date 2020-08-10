@@ -9,13 +9,15 @@
 # Add these following line to /etc/rc.conf.local or /etc/rc.conf
 # to enable this service:
 #
-# %%PORTNAME%%_enable (bool):       Set it to YES to enable keycloak on startup.
-#                               Default: NO
-# %%PORTNAME%%_domain (bool):       Set it to YES to start keycloak in domain mode.
-#                               Default: NO
-# %%PORTNAME%%_user (string):       User account to run with.
-#                               Default: www
-# %%PORTNAME%%_flags (string):      Additional flags for the startup script.
+# %%PORTNAME%%_enable (bool):         Set it to YES to enable keycloak on startup.
+#                                 Default: NO
+# %%PORTNAME%%_host_config (string):  Choose the host config if running in domain mode (host-master, host-slave).
+#                                 Default: host-master
+# %%PORTNAME%%_mode (string):         Choose the desired operating mode (standalone, standalone-ha, domain).
+#                                 Default: standalone
+# %%PORTNAME%%_user (string):         User account to run with.
+#                                 Default: www
+# %%PORTNAME%%_flags (string):        Additional flags for the startup script.
 #
 
 . /etc/rc.subr
@@ -27,7 +29,8 @@ desc="Identity and access management solution"
 load_rc_config $name
 
 : ${%%PORTNAME%%_enable:=NO}
-: ${%%PORTNAME%%_domain:=NO}
+: ${%%PORTNAME%%_host_config:="host-master"}
+: ${%%PORTNAME%%_mode:=standalone}
 : ${%%PORTNAME%%_user:=%%USER%%}
 : ${%%PORTNAME%%_group:=%%GROUP%%}
 : ${%%PORTNAME%%_flags:=""}
@@ -36,7 +39,7 @@ load_rc_config $name
 pidfile=%%RUN_DIR%%/%%PORTNAME%%.pid
 procname=%%JAVA%%
 command=/usr/sbin/daemon
-command_args="-u ${%%PORTNAME%%_user} -o %%LOG_DIR%%/%%PORTNAME%%.out -t %%PORTNAME%%"
+command_args="-u ${%%PORTNAME%%_user} -o %%LOG_DIR%%/%%PORTNAME%%.out -t %%PORTNAME%% -R 60"
 
 start_cmd="%%PORTNAME%%_start"
 
@@ -44,10 +47,14 @@ start_cmd="%%PORTNAME%%_start"
 {
         local %%PORTNAME%%_startscript
 
-        if ! checkyesno %%PORTNAME%%_domain; then
-                %%PORTNAME%%_startscript=standalone.sh
-        else
+        if [ ${%%PORTNAME%%_mode} = "domain" ]; then
+		%%PORTNAME%%_flags="--host-config=${%%PORTNAME%%_host_config} ${%%PORTNAME%%_flags}"
                 %%PORTNAME%%_startscript=domain.sh
+	elif [ ${%%PORTNAME%%_mode} = "standalone-ha" ]; then
+		%%PORTNAME%%_flags="--server-config=standalone-ha.xml ${%%PORTNAME%%_flags}"
+                %%PORTNAME%%_startscript=standalone.sh
+	else
+                %%PORTNAME%%_startscript=standalone.sh
         fi
 
 	if [ ! -d "%%LOG_DIR%%" ]; then

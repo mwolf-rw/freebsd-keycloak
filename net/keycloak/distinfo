@@ -1,3 +1,3 @@
-TIMESTAMP = 1591367623
-SHA256 (keycloak-10.0.2.tar.gz) = bd7ddebe33535ed032192c512b3d6245584879359b43ae413bdf3263ac7b4c46
-SIZE (keycloak-10.0.2.tar.gz) = 230071825
+TIMESTAMP = 1597045756
+SHA256 (keycloak-11.0.0.tar.gz) = 162028f8fa20c95de2bbbb15f5c3b64070eb7acc9f1fe3c5cf7e0400a171cf0e
+SIZE (keycloak-11.0.0.tar.gz) = 228260294
