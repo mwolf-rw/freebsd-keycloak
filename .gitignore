@@ -1,4 +1,7 @@
 generate_plist.sh
 make_test.sh
 net/keycloak/work
+net/keycloak/work-default
+net/keycloak/work-mysql
+net/keycloak/work-postgres
 *.swp
