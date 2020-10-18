@@ -1,7 +1,7 @@
 # $FreeBSD$
 
 PORTNAME=	keycloak
-PORTVERSION=	11.0.0
+PORTVERSION=	11.0.2
 CATEGORIES=	net java
 MASTER_SITES=	https://downloads.jboss.org/${PORTNAME}/${PORTVERSION}/
 
