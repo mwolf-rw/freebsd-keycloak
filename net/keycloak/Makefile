@@ -1,9 +1,9 @@
 # $FreeBSD$
 
 PORTNAME=	keycloak
-PORTVERSION=	11.0.3
+PORTVERSION=	12.0.1
 CATEGORIES=	net java
-MASTER_SITES=	https://downloads.jboss.org/${PORTNAME}/${PORTVERSION}/
+MASTER_SITES=	https://github.com/${PORTNAME}/${PORTNAME}/releases/download/${PORTVERSION}/
 
 MAINTAINER=	freebsd@rheinwolf.de
 COMMENT=	Identity and access management solution
