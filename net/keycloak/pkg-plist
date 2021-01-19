@@ -79,25 +79,25 @@ bin/kcreg
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.eclipse.sisu,org.eclipse.sisu.plexus,0.3.2,Eclipse Public License 1.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.freemarker,freemarker,2.3.29,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.infinispan.infinispan-jboss-marshalling,10.1.8.Final,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-authz-policy-common,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-client-cli-dist,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-common,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-core,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-js-adapter,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-kerberos-federation,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-ldap-federation,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-infinispan,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-jpa,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core-public,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi-private,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-services,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-sssd-federation,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-themes,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-adduser,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-extensions,12.0.1,Apache Software License 2.0.txt
-%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-server-subsystem,12.0.1,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-authz-policy-common,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-client-cli-dist,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-common,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-core,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-js-adapter,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-kerberos-federation,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-ldap-federation,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-infinispan,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-model-jpa,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-saml-core-public,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-server-spi-private,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-services,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-sssd-federation,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-themes,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-adduser,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-extensions,12.0.2,Apache Software License 2.0.txt
+%%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.keycloak,keycloak-wildfly-server-subsystem,12.0.2,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.kie,kie-api,7.11.0.Final,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.kie,kie-ci,7.11.0.Final,Apache Software License 2.0.txt
 %%PORTDOCS%%%%DOCSDIR%%/licenses-keycloak/org.kie,kie-internal,7.11.0.Final,Apache Software License 2.0.txt
@@ -483,8 +483,8 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/bin/client/README-EJB-JMS.txt
 %%JAVASHAREDIR%%/keycloak/bin/client/jboss-cli-client.jar
 %%JAVASHAREDIR%%/keycloak/bin/client/jboss-client.jar
-%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-admin-cli-12.0.1.jar
-%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-client-registration-cli-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-admin-cli-12.0.2.jar
+%%JAVASHAREDIR%%/keycloak/bin/client/keycloak-client-registration-cli-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/bin/common.sh
 %%JAVASHAREDIR%%/keycloak/bin/domain.sh
 %%JAVASHAREDIR%%/keycloak/bin/elytron-tool.sh
@@ -583,7 +583,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-concurrent/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-concurrent/main/opentracing-concurrent-0.2.1.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-interceptors/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-interceptors/main/opentracing-interceptors-0.0.4.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-interceptors/main/opentracing-interceptors-0.0.4.1.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-jaxrs2/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-jaxrs2/main/opentracing-jaxrs2-0.4.1.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/io/opentracing/contrib/opentracing-tracerresolver/main/module.xml
@@ -805,7 +805,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/lucene/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/neethi/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/neethi/main/neethi-3.1.1.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/openjpa/main/jipijapa-openjpa-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/openjpa/main/jipijapa-openjpa-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/openjpa/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/qpid/proton/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/apache/qpid/proton/main/proton-j-0.33.2.jar
@@ -874,7 +874,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/microprofile/opentracing/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/microprofile/restclient/main/microprofile-rest-client-api-1.4.0.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/microprofile/restclient/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/persistence/main/jipijapa-eclipselink-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/persistence/main/jipijapa-eclipselink-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/persistence/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/yasson/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/eclipse/yasson/main/yasson-1.0.5.jar
@@ -890,22 +890,22 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/glassfish/javax/json/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/glassfish/soteria/main/jakarta.security.enterprise-1.0.1-jbossorg-1.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/glassfish/soteria/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/4.1/jipijapa-hibernate4-1-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/4.1/jipijapa-hibernate4-1-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/4.1/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/4.3/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/5.0/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/5.3/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/bytecodetransformer/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/bytecodetransformer/main/wildfly-ormtransformer-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/bytecodetransformer/main/wildfly-ormtransformer-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/commons-annotations/main/hibernate-commons-annotations-5.0.5.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/commons-annotations/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/envers/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate4-3/main/jipijapa-hibernate4-3-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate4-3/main/jipijapa-hibernate4-3-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate4-3/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate5-3/main/jipijapa-hibernate5-3-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate5-3/main/jipijapa-hibernate5-3-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate5-3/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate5/main/jipijapa-hibernate5-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate5/main/jipijapa-hibernate5-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/jipijapa-hibernate5/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/main/hibernate-core-5.3.20.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/hibernate/main/hibernate-envers-5.3.20.Final.jar
@@ -952,23 +952,23 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jberet/jberet-core/main/jberet-core-1.3.7.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jberet/jberet-core/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/appclient/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/appclient/main/wildfly-appclient-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/appclient/main/wildfly-appclient-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/cli/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/cli/main/wildfly-cli-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/common/main/wildfly-clustering-common-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/common/main/wildfly-clustering-common-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/ejb3/infinispan/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/infinispan/main/wildfly-clustering-infinispan-extension-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/infinispan/main/wildfly-clustering-infinispan-extension-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/jgroups/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/jgroups/main/wildfly-clustering-jgroups-extension-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/jgroups/main/wildfly-clustering-jgroups-extension-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/clustering/web/infinispan/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/cmp/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/cmp/main/wildfly-cmp-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/cmp/main/wildfly-cmp-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/configadmin/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/configadmin/main/wildfly-configadmin-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/configadmin/main/wildfly-configadmin-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/connector/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/connector/main/wildfly-connector-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/connector/main/wildfly-connector-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/console/main/hal-console-3.2.11.Final-resources.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/console/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/controller-client/main/module.xml
@@ -991,47 +991,47 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/domain-management/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/domain-management/main/wildfly-domain-management-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ee/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ee/main/wildfly-ee-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ee/main/wildfly-ee-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ejb3/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ejb3/main/timers/timer-sql.properties
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ejb3/main/wildfly-ejb3-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/ejb3/main/wildfly-ejb3-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/host-controller/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/host-controller/main/wildfly-host-controller-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jacorb/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jacorb/main/wildfly-jacorb-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jacorb/main/wildfly-jacorb-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jaxr/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jaxr/main/wildfly-jaxr-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jaxr/main/wildfly-jaxr-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jaxrs/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jaxrs/main/wildfly-jaxrs-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jaxrs/main/wildfly-jaxrs-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jdr/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jdr/main/resources/plugins.properties
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jdr/main/wildfly-jdr-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jdr/main/wildfly-jdr-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jmx/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jmx/main/wildfly-jmx-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/hibernate/4/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/main/wildfly-jpa-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/main/wildfly-jpa-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/openjpa/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/spi/main/jipijapa-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/spi/main/jipijapa-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jpa/spi/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf-injection/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf-injection/main/weld-jsf-3.1.5.Final.jar
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf-injection/main/wildfly-jsf-injection-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf-injection/main/wildfly-jsf-injection-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf/main/wildfly-jsf-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsf/main/wildfly-jsf-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsr77/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsr77/main/wildfly-jsr77-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/jsr77/main/wildfly-jsr77-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/logging/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/logging/main/wildfly-logging-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/mail/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/mail/main/wildfly-mail-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/mail/main/wildfly-mail-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/management-client-content/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/management-client-content/main/wildfly-management-client-content-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/messaging/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/messaging/main/wildfly-messaging-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/messaging/main/wildfly-messaging-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/modcluster/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/naming/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/naming/main/wildfly-naming-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/naming/main/wildfly-naming-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/network/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/network/main/wildfly-network-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/patching/cli/main/module.xml
@@ -1040,7 +1040,7 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/platform-mbean/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/platform-mbean/main/wildfly-platform-mbean-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/pojo/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/pojo/main/wildfly-pojo-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/pojo/main/wildfly-pojo-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/process-controller/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/process-controller/main/wildfly-process-controller-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/protocol/main/module.xml
@@ -1048,54 +1048,54 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/remoting/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/remoting/main/wildfly-remoting-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/sar/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/sar/main/wildfly-sar-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/sar/main/wildfly-sar-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-api/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-api/main/wildfly-security-api-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-api/main/wildfly-security-api-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-integration/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-integration/main/wildfly-security-integration-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-integration/main/wildfly-security-integration-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-plugins/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-plugins/main/wildfly-security-plugins-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security-plugins/main/wildfly-security-plugins-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security/main/wildfly-security-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/security/main/wildfly-security-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/server/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/server/main/wildfly-server-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/standalone/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/system-jmx/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/system-jmx/main/wildfly-system-jmx-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/system-jmx/main/wildfly-system-jmx-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/threads/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/threads/main/wildfly-threads-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/transactions/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/transactions/main/wildfly-transactions-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/transactions/main/wildfly-transactions-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/vault-tool/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/vault-tool/main/wildfly-security-vault-tool-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/vault-tool/main/wildfly-security-vault-tool-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/version/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/version/main/wildfly-version-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/web-common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/web-common/main/wildfly-web-common-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/web-common/main/wildfly-web-common-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/web/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/web/main/wildfly-web-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/web/main/wildfly-web-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/webservices/main/jbossws-cxf-resources-5.4.2.Final-wildfly1900.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/webservices/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/webservices/main/wildfly-webservices-server-integration-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/webservices/main/wildfly-webservices-server-integration-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/webservices/server/integration/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/beanvalidation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/beanvalidation/main/wildfly-weld-bean-validation-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/beanvalidation/main/wildfly-weld-bean-validation-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/common/main/wildfly-weld-common-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/common/main/wildfly-weld-common-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/ejb/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/ejb/main/wildfly-weld-ejb-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/ejb/main/wildfly-weld-ejb-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/jpa/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/jpa/main/wildfly-weld-jpa-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/jpa/main/wildfly-weld-jpa-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/main/wildfly-weld-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/main/wildfly-weld-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/spi/main/wildfly-weld-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/spi/main/wildfly-weld-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/transactions/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/transactions/main/wildfly-weld-transactions-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/transactions/main/wildfly-weld-transactions-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/webservices/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/webservices/main/wildfly-weld-webservices-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/weld/webservices/main/wildfly-weld-webservices-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/xts/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/xts/main/wildfly-xts-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/as/xts/main/wildfly-xts-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/classfilewriter/main/jboss-classfilewriter-1.2.4.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/classfilewriter/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/jboss/common-beans/main/jboss-common-beans-2.0.1.Final.jar
@@ -1352,59 +1352,59 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/client/config/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/client/config/main/wildfly-client-config-1.0.1.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/api/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/api/main/wildfly-clustering-api-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/api/main/wildfly-clustering-api-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/cache/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/cache/main/wildfly-clustering-ee-cache-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/cache/main/wildfly-clustering-ee-cache-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/hotrod/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/hotrod/main/wildfly-clustering-ee-hotrod-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/hotrod/main/wildfly-clustering-ee-hotrod-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/infinispan/main/wildfly-clustering-ee-infinispan-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/infinispan/main/wildfly-clustering-ee-infinispan-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/spi/main/wildfly-clustering-ee-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ee/spi/main/wildfly-clustering-ee-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ejb/infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ejb/infinispan/main/wildfly-clustering-ejb-infinispan-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ejb/infinispan/main/wildfly-clustering-ejb-infinispan-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ejb/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ejb/spi/main/wildfly-clustering-ejb-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/ejb/spi/main/wildfly-clustering-ejb-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/client/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/client/main/wildfly-clustering-infinispan-client-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/client/main/wildfly-clustering-infinispan-client-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/marshalling/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/marshalling/main/wildfly-clustering-infinispan-marshalling-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/marshalling/main/wildfly-clustering-infinispan-marshalling-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/spi/main/wildfly-clustering-infinispan-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/infinispan/spi/main/wildfly-clustering-infinispan-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/jgroups/api/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/jgroups/api/main/wildfly-clustering-jgroups-api-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/jgroups/api/main/wildfly-clustering-jgroups-api-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/jgroups/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/jgroups/spi/main/wildfly-clustering-jgroups-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/jgroups/spi/main/wildfly-clustering-jgroups-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/api/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/api/main/wildfly-clustering-marshalling-api-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/api/main/wildfly-clustering-marshalling-api-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/jboss/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/jboss/main/wildfly-clustering-marshalling-jboss-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/jboss/main/wildfly-clustering-marshalling-jboss-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/protostream/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/protostream/main/wildfly-clustering-marshalling-protostream-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/protostream/main/wildfly-clustering-marshalling-protostream-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/spi/main/wildfly-clustering-marshalling-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/marshalling/spi/main/wildfly-clustering-marshalling-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/server/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/server/main/wildfly-clustering-server-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/server/main/wildfly-clustering-server-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/service/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/service/main/wildfly-clustering-service-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/service/main/wildfly-clustering-service-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/singleton/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/singleton/main/wildfly-clustering-singleton-api-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/singleton/main/wildfly-clustering-singleton-api-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/spi/main/wildfly-clustering-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/spi/main/wildfly-clustering-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/api/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/api/main/wildfly-clustering-web-api-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/api/main/wildfly-clustering-web-api-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/cache/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/cache/main/wildfly-clustering-web-cache-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/cache/main/wildfly-clustering-web-cache-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/container/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/container/main/wildfly-clustering-web-container-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/container/main/wildfly-clustering-web-container-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/hotrod/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/hotrod/main/wildfly-clustering-web-hotrod-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/hotrod/main/wildfly-clustering-web-hotrod-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/infinispan/main/wildfly-clustering-web-infinispan-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/infinispan/main/wildfly-clustering-web-infinispan-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/spi/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/spi/main/wildfly-clustering-web-spi-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/spi/main/wildfly-clustering-web-spi-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/undertow/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/undertow/main/wildfly-clustering-web-undertow-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/clustering/web/undertow/main/wildfly-clustering-web-undertow-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/common/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.5.4.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/discovery/main/module.xml
@@ -1414,50 +1414,50 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/event/logger/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/event/logger/main/wildfly-event-logger-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/batch/jberet/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/batch/jberet/main/wildfly-batch-jberet-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/batch/jberet/main/wildfly-batch-jberet-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/bean-validation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/bean-validation/main/wildfly-bean-validation-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/bean-validation/main/wildfly-bean-validation-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/clustering/singleton/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/clustering/singleton/main/wildfly-clustering-singleton-extension-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/clustering/singleton/main/wildfly-clustering-singleton-extension-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/clustering/web/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/clustering/web/main/wildfly-clustering-web-extension-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/clustering/web/main/wildfly-clustering-web-extension-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/core-management-client/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/core-management-client/main/wildfly-core-management-client-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/core-management/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/core-management/main/wildfly-core-management-subsystem-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/datasources-agroal/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/datasources-agroal/main/wildfly-datasources-agroal-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/datasources-agroal/main/wildfly-datasources-agroal-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/discovery/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/discovery/main/wildfly-discovery-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/ee-security/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/ee-security/main/wildfly-ee-security-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/ee-security/main/wildfly-ee-security-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/elytron/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/elytron/main/wildfly-elytron-integration-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/io/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/io/main/wildfly-io-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/messaging-activemq/main/artemis-wildfly-integration-1.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/messaging-activemq/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/messaging-activemq/main/wildfly-messaging-activemq-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/messaging-activemq/main/wildfly-messaging-activemq-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/config-smallrye/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/config-smallrye/main/wildfly-microprofile-config-smallrye-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/config-smallrye/main/wildfly-microprofile-config-smallrye-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/health-smallrye/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/health-smallrye/main/wildfly-microprofile-health-smallrye-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/health-smallrye/main/wildfly-microprofile-health-smallrye-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/metrics-smallrye/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/metrics-smallrye/main/wildfly-microprofile-metrics-smallrye-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/metrics-smallrye/main/wildfly-microprofile-metrics-smallrye-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/opentracing-smallrye/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/opentracing-smallrye/main/wildfly-microprofile-opentracing-extension-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/microprofile/opentracing-smallrye/main/wildfly-microprofile-opentracing-extension-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/mod_cluster/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/mod_cluster/main/wildfly-mod_cluster-extension-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/mod_cluster/main/wildfly-mod_cluster-extension-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/picketlink/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/picketlink/main/wildfly-picketlink-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/picketlink/main/wildfly-picketlink-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/request-controller/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/request-controller/main/wildfly-request-controller-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/rts/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/rts/main/wildfly-rts-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/rts/main/wildfly-rts-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/security/manager/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/security/manager/main/wildfly-security-manager-13.0.3.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/undertow/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/undertow/main/wildfly-undertow-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/extension/undertow/main/wildfly-undertow-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/http-client/common/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/http-client/common/main/wildfly-http-client-common-1.1.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/http-client/ejb/main/module.xml
@@ -1467,11 +1467,11 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/http-client/transaction/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/http-client/transaction/main/wildfly-http-transaction-client-1.1.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/iiop-openjdk/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/iiop-openjdk/main/wildfly-iiop-openjdk-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/iiop-openjdk/main/wildfly-iiop-openjdk-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/microprofile/opentracing-smallrye/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/microprofile/opentracing-smallrye/main/wildfly-microprofile-opentracing-smallrye-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/microprofile/opentracing-smallrye/main/wildfly-microprofile-opentracing-smallrye-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/mod_cluster/undertow/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/mod_cluster/undertow/main/wildfly-mod_cluster-undertow-21.0.1.Final.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/mod_cluster/undertow/main/wildfly-mod_cluster-undertow-21.0.2.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/naming-client/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/naming-client/main/wildfly-naming-client-1.0.13.Final.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/base/org/wildfly/naming/main/module.xml
@@ -1590,43 +1590,43 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/infinispan/jboss-marshalling/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/jboss/as/product/keycloak/dir/META-INF/MANIFEST.MF
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/jboss/as/product/keycloak/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-common/main/keycloak-authz-policy-common-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-common/main/keycloak-authz-policy-common-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-authz-policy-common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/keycloak-common-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/keycloak-common-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-core/main/keycloak-core-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-core/main/keycloak-core-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-core/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-js-adapter/main/keycloak-js-adapter-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-js-adapter/main/keycloak-js-adapter-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-js-adapter/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-kerberos-federation/main/keycloak-kerberos-federation-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-kerberos-federation/main/keycloak-kerberos-federation-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-kerberos-federation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-ldap-federation/main/keycloak-ldap-federation-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-ldap-federation/main/keycloak-ldap-federation-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-ldap-federation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-infinispan/main/keycloak-model-infinispan-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-infinispan/main/keycloak-model-infinispan-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-infinispan/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-jpa/main/keycloak-model-jpa-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-jpa/main/keycloak-model-jpa-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-model-jpa/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core-public/main/keycloak-saml-core-public-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core-public/main/keycloak-saml-core-public-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core-public/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core/main/keycloak-saml-core-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core/main/keycloak-saml-core-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-saml-core/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi-private/main/keycloak-server-spi-private-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi-private/main/keycloak-server-spi-private-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi-private/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi/main/keycloak-server-spi-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi/main/keycloak-server-spi-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-spi/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/dependencies/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/main/server-war/WEB-INF/jboss-deployment-structure.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-server-subsystem/main/server-war/WEB-INF/web.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-services/main/keycloak-services-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-services/main/keycloak-services-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-services/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-sssd-federation/main/keycloak-sssd-federation-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-sssd-federation/main/keycloak-sssd-federation-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-sssd-federation/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-adduser/main/keycloak-wildfly-adduser-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-adduser/main/keycloak-wildfly-adduser-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-adduser/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-extensions/main/keycloak-wildfly-extensions-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-extensions/main/keycloak-wildfly-extensions-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-extensions/main/module.xml
-%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/keycloak-wildfly-server-subsystem-12.0.1.jar
+%%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/keycloak-wildfly-server-subsystem-12.0.2.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/keycloak/keycloak-wildfly-server-subsystem/main/module.xml
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/liquibase/main/liquibase-core-3.5.5.jar
 %%JAVASHAREDIR%%/keycloak/modules/system/layers/keycloak/org/liquibase/main/module.xml
@@ -2541,12 +2541,12 @@ bin/kcreg
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/@patternfly/react-icons.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/@patternfly/react-styles.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/@patternfly/react-styles.js.map
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/_commonjsHelpers-df340c08.js
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/_commonjsHelpers-df340c08.js.map
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/index-00835120.js
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/index-00835120.js.map
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/StyleSheet-c630ecac.js
-%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/StyleSheet-c630ecac.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/_commonjsHelpers-fe055caf.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/_commonjsHelpers-fe055caf.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/index-a4eee578.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/index-a4eee578.js.map
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/StyleSheet-d256fb04.js
+%%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/common/StyleSheet-d256fb04.js.map
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/import-map.json
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/react-dom.js
 %%JAVASHAREDIR%%/keycloak/themes/keycloak/common/resources/web_modules/react-dom.js.map
