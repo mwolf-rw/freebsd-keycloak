@@ -1,7 +1,5 @@
-# $FreeBSD$
-
 PORTNAME=	keycloak
-PORTVERSION=	12.0.4
+PORTVERSION=	13.0.0
 CATEGORIES=	net java
 MASTER_SITES=	https://github.com/${PORTNAME}/${PORTNAME}/releases/download/${PORTVERSION}/
 
@@ -116,12 +114,12 @@ do-install:
 .endfor
 
 	# Create links for kc* binaries
-	${LN} -sf ${JAVASHAREDIR}/${PORTNAME}/bin/kcadm.sh ${STAGEDIR}${PREFIX}/bin/kcadm
-	${LN} -sf ${JAVASHAREDIR}/${PORTNAME}/bin/kcreg.sh ${STAGEDIR}${PREFIX}/bin/kcreg
+	${LN} -sf ../share/java/${PORTNAME}/bin/kcadm.sh ${STAGEDIR}${PREFIX}/bin/kcadm
+	${LN} -sf ../share/java/${PORTNAME}/bin/kcreg.sh ${STAGEDIR}${PREFIX}/bin/kcreg
 
 	# Create links for log directories
-	${LN} -sf ${LOG_DIR}/domain ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/domain/log
-	${LN} -sf ${LOG_DIR}/standalone ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/standalone/log
+	${LN} -sf ../../../../../..${LOG_DIR}/domain ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/domain/log
+	${LN} -sf ../../../../../..${LOG_DIR}/standalone ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/standalone/log
 
 .if ${FLAVOR:U} == mysql
 	@${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/modules/system/layers/keycloak/com/mysql/main
