@@ -60,6 +60,7 @@ post-patch:
 
 do-install:
 	${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/bin
+	${MKDIR} ${STAGEDIR}${JAVASHAREDIR}/${PORTNAME}/data
 	${MKDIR} ${STAGEDIR}${LOG_DIR}
 	${MKDIR} ${STAGEDIR}${RUN_DIR}
 
