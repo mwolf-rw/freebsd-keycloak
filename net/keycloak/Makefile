@@ -1,10 +1,11 @@
 PORTNAME=	keycloak
-PORTVERSION=	19.0.1
+PORTVERSION=	19.0.2
 CATEGORIES=	net java
 MASTER_SITES=	https://github.com/${PORTNAME}/${PORTNAME}/releases/download/${PORTVERSION}/
 
 MAINTAINER=	freebsd@rheinwolf.de
 COMMENT=	Identity and access management solution
+WWW=		https://www.keycloak.org/
 
 LICENSE=	APACHE20
 LICENSE_FILE=	${WRKSRC}/LICENSE.txt
