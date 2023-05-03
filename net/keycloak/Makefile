@@ -1,5 +1,5 @@
 PORTNAME=	keycloak
-PORTVERSION=	21.0.1
+PORTVERSION=	21.1.1
 CATEGORIES=	net java
 MASTER_SITES=	https://github.com/${PORTNAME}/${PORTNAME}/releases/download/${PORTVERSION}/
 
@@ -21,7 +21,7 @@ SHEBANG_FILES=	bin/kc.sh \
 		bin/kcreg.sh
 
 USE_JAVA=	yes
-JAVA_VERSION=	17+
+JAVA_VERSION=	11+
 JAVA_OS=	native
 JAVA_VENDOR=	openjdk oracle
 JAVA_RUN=	yes
@@ -39,11 +39,12 @@ NO_ARCH=	yes
 NO_BUILD=	yes
 
 SUB_LIST+=	GROUP=${GROUP} \
-		LOG_DIR=${LOG_DIR} \
 		JAVA=${JAVA} \
+		LOG_DIR=${LOG_DIR} \
 		PORTNAME=${PORTNAME} \
 		RUN_DIR=${RUN_DIR} \
 		USER=${USER}
+PLIST_SUB=	VERSION=${DISTVERSION}
 
 OPTIONS_DEFINE=	DOCS EXAMPLES
 
