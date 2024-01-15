@@ -23,7 +23,7 @@ SHEBANG_FILES=	bin/kc.sh \
 USE_JAVA=	yes
 JAVA_VERSION=	17+
 JAVA_OS=	native
-JAVA_VENDOR=	openjdk oracle
+JAVA_VENDOR=	openjdk
 JAVA_RUN=	yes
 
 USE_RC_SUBR=	keycloak
