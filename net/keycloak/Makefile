@@ -10,8 +10,6 @@ WWW=		https://www.keycloak.org/
 LICENSE=	APACHE20
 LICENSE_FILE=	${WRKSRC}/LICENSE.txt
 
-RUN_DEPENDS=	bash>0:shells/bash
-
 USES=		cpe shebangfix
 
 CPE_VENDOR=	redhat
