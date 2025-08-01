@@ -1,5 +1,5 @@
 PORTNAME=	keycloak
-DISTVERSION=	26.0.8
+DISTVERSION=	26.3.2
 CATEGORIES=	net java
 MASTER_SITES=	https://github.com/${PORTNAME}/${PORTNAME}/releases/download/${DISTVERSION}/
 
@@ -11,9 +11,7 @@ LICENSE=	APACHE20
 LICENSE_FILE=	${WRKSRC}/LICENSE.txt
 
 USES=		cpe java shebangfix
-
 CPE_VENDOR=	redhat
-
 JAVA_VERSION=	21+
 JAVA_OS=	native
 JAVA_VENDOR=	openjdk
